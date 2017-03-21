@@ -11,7 +11,13 @@ only if both are negative.
 
 
 def pos_neg(a, b, negative):
-    pass
+    if a == pos
+    b ==neg
+    print('True')
+
+    else
+    print('False')
+
 
 
 # Expected outputs:
@@ -46,7 +52,14 @@ years (for example, 2000).
 
 
 def leap_year(year):
-    pass
+year = int(input('What year do you want to enter?'))
+year = year / 4 or year / 40
+
+if year % 1:
+    print('It is a leap year')
+
+elif year / 100
+    print('It is not a leap year')
 
 
 # When you've completed your function, uncomment the
@@ -72,7 +85,12 @@ Write a function with loops that computes the sum of all squares between
 
 
 def sum_squares(n):
-    pass
+    n = 0
+    for i in range(1,n)
+        n = (n + i) **
+
+
+
 
 # When you've completed your function, uncomment the
 # following lines and run this file to test!
